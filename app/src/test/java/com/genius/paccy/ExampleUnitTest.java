@@ -1,4 +1,4 @@
-package com.genius.Janet;
+package com.genius.Aphrodis;
 
 import org.junit.Test;
 
