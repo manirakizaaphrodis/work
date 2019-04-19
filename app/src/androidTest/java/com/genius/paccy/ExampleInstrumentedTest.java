@@ -1,4 +1,4 @@
-package com.genius.paccy;
+package com.genius.Aphrodis;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
